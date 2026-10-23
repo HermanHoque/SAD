@@ -52,7 +52,7 @@ Este projeto representa uma oportunidade de aplicar conhecimentos de desenvolvim
 
 ![Captura de ecrã perfil](screenshots/Captura_de_ecrã_03.png)
 
-### Painel administrativo
+### Painel administrativo página de detalhes 
 
 ![Captura de ecrã do painel administrativo](screenshots/Captura_de_ecrã_01.png)
 
