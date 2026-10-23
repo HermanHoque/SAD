@@ -29,7 +29,7 @@ Este projeto representa uma oportunidade de aplicar conhecimentos de desenvolvim
 - [Requisitos](#-requisitos)
 - [Instalação e execução](#-instalação-e-execução)
 - [Acesso administrativo](#-acesso-administrativo)
-- [Dados de demonstração](#-dados-de-demonstração)
+- [Dados de demonstração](#dados-de-demonstração)
 - [Dependências externas](#-dependências-externas)
 - [Objetivos de aprendizagem](#-objetivos-de-aprendizagem)
 - [Autor](#-autor)
