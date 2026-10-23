@@ -1,0 +1,17 @@
+@charset "UTF-8";
+div#conteudo{
+    padding-left: 300px; 
+    padding-right: 300px;
+    padding-top: 10%;
+}
+@media screen and (max-width:  768px) {
+    /* Estilos para telas com largura máxima de 768px */
+    div#conteudo{
+        padding-top: 15%;
+        padding-left: 10px; 
+        padding-right: 10px;
+    }
+   
+  }
+
+

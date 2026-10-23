@@ -1,0 +1,12 @@
+{
+
+    
+  "config": {
+    "use-7z": false
+  },
+
+  "require": {
+    "dompdf/dompdf": "*"
+  }
+
+}
