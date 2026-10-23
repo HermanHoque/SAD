@@ -80,10 +80,8 @@ Para executar o projeto localmente, poderás precisar de:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_TEU_REPOSITORIO
+git clone https://github.com/HermanHoque/SAD.git
 ```
-
-Substitui `URL_DO_TEU_REPOSITORIO` pelo endereço real do repositório no GitHub.
 
 ### 2. Entrar na pasta do projeto
 
@@ -97,7 +95,7 @@ Se o nome da pasta for diferente, utiliza o nome correto.
 
 Coloca o projeto no diretório do servidor web ou utiliza outro método compatível com a sua estrutura.
 
-Se a aplicação utilizar uma base de dados, configura a ligação e importa o respetivo ficheiro SQL, caso exista.
+configura a ligação da DB no arquivo controll/conexao.php e importa o respetivo ficheiro SQL presente no repositório
 
 ### 4. Iniciar a aplicação
 
